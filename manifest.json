@@ -1,6 +1,6 @@
 {
-    "name": "flutter_route_name",
-    "short_name": "flutter_route_name",
+    "name": "leddisplaycalculator",
+    "short_name": "leddisplaycalculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
